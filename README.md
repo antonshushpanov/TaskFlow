@@ -41,6 +41,6 @@
 
 **Технологический стек:**
 
-Язык: JavaScript (ES6+) с возможностью последующей миграции на TypeScript, Kotlin.
+**Язык:** JavaScript (ES6+) с возможностью последующей миграции на TypeScript, Kotlin.
 
-Верстка: HTML5 + CSS3 (с использованием Flexbox и CSS Variables для тем)
+**Верстка:** HTML5 + CSS3 (с использованием Flexbox и CSS Variables для тем)
