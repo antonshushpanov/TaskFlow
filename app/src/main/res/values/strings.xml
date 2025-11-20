@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskFlow</string>
+    <string name="add_event">Добавить событие</string>
+    <string name="delete">Удалить</string>
+</resources>
